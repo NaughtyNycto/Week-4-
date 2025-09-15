@@ -176,16 +176,16 @@
 
 // Problem 20
 //
-int main() {
- int a,b, num1;
-
- cout<<"Enter two numbers: ";
- cin>>a>>b;
-
- if (a>b) {
-  if (a%b != 0) {
-  num1 = a%b;
-  cout<<"The remainder is "<<num1<<endl;}
-  else cout<<"The remainder is zero"<<endl;
- } else cout<<"Not divisible "<<endl;
-}
+// int main() {
+//  int a,b, num1;
+//
+//  cout<<"Enter two numbers: ";
+//  cin>>a>>b;
+//
+//  if (a>b) {
+//   if (a%b != 0) {
+//   num1 = a%b;
+//   cout<<"The remainder is "<<num1<<endl;}
+//   else cout<<"The remainder is zero"<<endl;
+//  } else cout<<"Not divisible "<<endl;
+// }
